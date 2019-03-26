@@ -1,0 +1,10 @@
+describe ("Prueba de función") 
+{
+  it ("perro al reves es orrep")
+  {
+    char dvuelta[10];
+    darVuelta("perro",dvuelta);
+    should_string(dvuelta) be equal to("orrep");
+  } end
+  
+} end
