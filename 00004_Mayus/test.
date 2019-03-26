@@ -1,0 +1,10 @@
+describe ("Prueba de función") 
+{
+  it ("gato en mayus es GATO")
+  {
+    char may[10];
+    darVuelta("gato",may);
+    should_string(may) be equal to("GATO");
+  } end
+  
+} end
