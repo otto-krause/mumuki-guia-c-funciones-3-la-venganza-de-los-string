@@ -1,0 +1,8 @@
+describe ("Prueba de función") 
+{
+  it ("juanito mide 7 caracteres")
+  {
+    should_int(largo("juanito")) be equal to(7);
+  } end
+  
+} end

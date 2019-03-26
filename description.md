@@ -1,1 +1,1 @@
-Guía de ejercicios y complejos y cadenas.
+Guía de ejercicios complejos y cadenas.

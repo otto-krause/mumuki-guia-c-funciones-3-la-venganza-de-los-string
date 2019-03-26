@@ -1,0 +1,1 @@
+Crear la función `largo` que dada una cadena que se pasa por parámetro, devuelve cual es la cantidad de caracteres que contiene.

@@ -1,0 +1,1 @@
+Acordate de que las cadenas terminan siempre con el caracter '\0'
