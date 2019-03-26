@@ -1,0 +1,20 @@
+describe ("Prueba de función") 
+{
+  it ("Raton y Rata tienen 3 letras en común")
+  {
+    should_int(cuantasEnComun("raton","rata")) be equal to(3);
+  } end
+    it ("Murcielago y Astronauta tienen 3 letras en común")
+  {
+    should_int(cuantasEnComun("murcielago","astronauta")) be equal to(3);
+  } end
+    it ("Pregunta y Punta tienen 5 letras en común")
+  {
+    should_int(cuantasEnComun("pregunta","punta")) be equal to(5);
+  } end
+    it ("Sandia y Sandalia tienen 5 letas en común")
+  {
+    should_int(cuantasEnComun("sandia","sandalia")) be equal to(5);
+  } end
+  
+} end
