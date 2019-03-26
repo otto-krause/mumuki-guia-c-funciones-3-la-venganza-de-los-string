@@ -1,0 +1,11 @@
+describe ("Prueba de función") 
+{
+  it ("menem es capicua")
+  {
+    should_bool(capicua("menem")) be equal to(true);
+  } end
+  it ("perro no es capicua")
+  {
+    should_bool(capicua("perro")) be equal to(false);
+  } end
+} end

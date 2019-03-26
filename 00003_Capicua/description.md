@@ -1,0 +1,1 @@
+Crear la función `capicua` que recibe una cadena y devuelve verdadero o falso dependiendo de si la palabra es capicua/
